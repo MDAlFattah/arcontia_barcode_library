@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g  -rdynamic CMakeFiles/helloworld_cmake.dir/src/main.cpp.o CMakeFiles/helloworld_cmake.dir/src/test_IBarcodeScanner.cpp.o CMakeFiles/helloworld_cmake.dir/home/osboxes/arcontia_barcodelib/lib/src/Arcontia_BarcodeScanner.cpp.o  -o helloworld_cmake 

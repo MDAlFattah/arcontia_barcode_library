@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarcontiabarcodescanner.a  CMakeFiles/arcontiabarcodescanner.dir/src/Arcontia_BarcodeScanner.cpp.o
+/usr/bin/ranlib libarcontiabarcodescanner.a
